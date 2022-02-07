@@ -1,0 +1,29 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "This is a team profile generator.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NXF1LT3R/team-profile-generator.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Edward Plecha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NXF1LT3R/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/NXF1LT3R/team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.5.0"
+  }
+}
